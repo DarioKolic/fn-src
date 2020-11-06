@@ -1,0 +1,51 @@
+[
+  {
+    "keyword": "test",
+    "latlong": "13.3333 14.44444"
+  },
+  {
+    "keyword": "testing 2",
+    "latlong": "l2"
+  },
+  { "keyword": "haleem", "latlong": "dish" },
+  {
+    "keyword": "testest 3",
+    "latlong": "l3"
+  },
+  {
+    "keyword": "some4",
+    "latlong": "l4"
+  },
+  {
+    "keyword": "some5",
+    "latlong": "l5"
+  },
+  {
+    "keyword": "om236",
+    "latlong": "l6"
+  },
+  {
+    "keyword": "7",
+    "latlong": "l7"
+  },
+  {
+    "keyword": "8",
+    "latlong": "l8"
+  },
+  {
+    "keyword": "9",
+    "latlong": "l9"
+  },
+  {
+    "keyword": "10",
+    "latlong": "l10"
+  },
+  {
+    "keyword": "11",
+    "latlong": "l11"
+  },
+  {
+    "keyword": "12",
+    "latlong": "l12"
+  }
+]
